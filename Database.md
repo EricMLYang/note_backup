@@ -1,0 +1,4 @@
+- Traditional Relational databases
+    - also called a relational database management system (RDBMS) or SQL database
+    - most popular ones are MySQL, Oracle database, PostgreSQL, etc
+- a non-relational database

@@ -1,0 +1,6 @@
+- ByteByteGo - 02 Scale From Zero To Millions Of Users
+- Request flow and traffic source investigation:
+    - User access websites through domain names from browser or mobile app.
+    - [[Domain Name System]] ( DNS ) is a paid 3rd parties server. It well receive the request and return real [[Internet Protocol]] (IP) address to browser or mobile app.
+    - A [[Hypertext Transfer Protocol]] (HTTP) request are sent to real web server.
+    - The Web server returns HTML pages or JSON response for rendering.

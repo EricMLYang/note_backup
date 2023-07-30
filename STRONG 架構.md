@@ -1,0 +1,6 @@
+- 建構框架(Setting the frame)
+- 說好故事(Telling the story)
+- 吊人胃口(Revealing the intrigue)
+- 提供大獎(Offering the prize)
+- 引人上鉤(Nailing the hookpoint)
+- 達成交易(Getting the decision)

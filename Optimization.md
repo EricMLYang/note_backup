@@ -1,0 +1,31 @@
+- Meta Learning:
+    - Why learn? 
+        - I want to finish a new algorithm project.
+        - Get into the theory of optimization and improve out team's ability
+    - What to do?
+        - Breakdown the problem and convert into the optimization form
+        - [[Algorithms]]
+            - Space Relate: (Shapely) R-Tree
+            - Graph theory
+            - Geometry Relate (Shapely)
+            - Network
+            - Path Search
+        - Optimization
+            - Figure out the topic list：[Optimization Problem Types](https://neos-guide.org/guide/types/)
+                - Convex?
+                - Discrete Optimization  : some or all of the variables in a model are required to belong to a discrete set
+                    - [[Combinatorial Optimization]] : The discrete set is a set of objects, or combinatorial structures, such as assignments, combinations, routes, schedules, or sequences.
+                - Uncertainty?
+                - Constrained? 
+            - Application Referance
+                - [Automating Puzzle Solving With Python](https://betterprogramming.pub/automating-puzzle-solving-with-python-f3ecc242e059)
+                - Logistic route (path) distribution
+                - Path Plan (Shortest path)
+                - The Optimization Process for Seaside Operations at Medium-Sized Container Terminals with a Multi-Quay Layout
+                - Pallet optimization
+                - [Modelling graph coloring with integer linear programming](https://manas.tech/blog/2010/09/16/modelling-graph-coloring-with-integer-linear-programming/)
+        - Try Algorithm by tutorial
+            - Simulated Annealing
+            - Ant Colony Optimization
+            - genetic programming
+    - How to do?

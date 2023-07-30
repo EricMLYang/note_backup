@@ -1,0 +1,6 @@
+- [[business data science]]
+- Business data science is all about distilling your decision problem into a small number of variables that can be compared in few simple plot.
+- Just like a simple model that related individual stock return to the market average (capital asset pricing model)
+- An interpretable model translated raw data into information that is directly relevant to decision-making
+- You want to project the information in your data into a low-dimemsiinal space that contains key insights for the decision you need to make.
+- 在經管 Forecast 數據探索業務中，我嘗試用不同維度的矩陣來分類各種比較個體，並且想要跟最終的市佔率相連，就是用上述例子類似的方式

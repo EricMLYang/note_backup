@@ -1,0 +1,25 @@
+- [[Pomodoro]]
+- [[incubate]]
+- [[Trash]]
+- Work Project: 
+    - [[uLED Repaired]]
+    - [[GPT Application]]
+    - [[Squirro]]
+    - 
+- Task:
+    - Real Estate
+- Purchasing List：
+    - home wifi：全屋通
+    - shower head filter
+    - physical check-up with Wife
+        - [安慎](]https://www.ansn-health.com.tw/)
+    - 1password
+    - Microwave oven
+- Personal Growth： 
+    - Target convergence:
+        - I don't need to worry about the layoff
+            - [Product Manager](https://roamresearch.com/#/app/products_management/page/CEwd4GpA8)
+                - [System Design Interview: Byte Byte Go](https://bytebytego.com/courses/system-design-interview/foreword)-dute date 8/17
+                - TOEIC Exam
+            - Passive Income
+                - [How to Get Rich](https://nav.al/rich) 

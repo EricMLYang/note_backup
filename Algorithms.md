@@ -1,0 +1,3 @@
+- Book: [Introduction To Theoretical Computer Science](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
+- [The Stony Brook Algorithm Repository](https://algorist.com/algorist.html)
+- [[NP-Hard]]
